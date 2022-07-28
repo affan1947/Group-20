@@ -62,7 +62,7 @@ for i in new_list:
 #creating figure
 plt.rcParams["figure.figsize"] = [6, 4]
 plt.rcParams["figure.autolayout"] = True
-fig1 = plt.bar(list_2, flights, color=('#7700EE'))
+fig1 = plt.bar(list_2, flights, color=('#00ffff'))
 plt.title("Commercial Flights in EU (Jan 2019- May 2022)")
 plt.xlabel("Month & Year")
 
