@@ -79,3 +79,6 @@ plt.savefig('barplot_EU_Flights_2019_to_2022.png', dpi = 700)
 #plt.savefig('barplot_EU_Flights_2019_to_2022.pdf')
 #testing 123
 plt.show()
+
+
+#test comment
